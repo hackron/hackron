@@ -18,7 +18,7 @@ The Meat and Potatos
 * For decisions made at weekly meetings, there must be three members present to
   establish a quorum
 * If you were absent from a meeting and have concerns with a decision that was
-  made there, show up next week and it to the agenda.
+  made there, show up next week and add it to the agenda.
 * Decisions made in the process of completing action items from a weekly meeting
   should generally be considered equivalent to those made in weekly meetings.
 * When possible, we will follow the Fractal Working Groups factory pattern as
