@@ -21,61 +21,61 @@ Agenda
 - Craig asks: How do we define freeloaders? I like the concept of I need to fix something, walk in and use it, but what about someone who freeloads for 6 months
 - Omar sez: Whats meant by no freeloaders is that if you're coming in to take part in, etc. You can bring guests in.
 - Chris sez: I like the idea of having a very low barrier to entry for participating in the community, but there needs to be that barrier to entry into entry and acceptance into the community. Being inclusive but somewhat exclusive in a sense.
--- One thing that can definitely benefit hackron: A much longer onboarding process. How long should that be? Maybe a probation period, or a minimum of "I've seen you around for X number of weeks" Something that prevents folks from coming in and saying "I just heard about you this week. I want to join."
--- Craig sez: That initial enthusiasm. How do you satisfy that urge to.
--- Torrie explains subscription based donations as primary income, and why people might want to be a member in the first place
--- Omar sez: You can still use the space if you're not a member. But a chance to direct things, that requires the onboarding, the understanding of the culture, understanding how to make things happen before you try to make things happen.
--- Omar suggests changing the term "freeloader" to "guest" or "visitor".
--- 
--- Craig will bring a table microphone for the next meeting
--- Torrie discusses threat models, such as malicious hacking, sexual harassment, hostile takeover, interpersonal conflicts, space becoming an ewaste dump, etc. 
--- Torrie wants to use noisebridge fractal working groups.  Hackron working group, with sub-groups below it.   We need smaller groups so things can be split up and delegated.  Philip is in charge of the space working group.  Xander is on the financial working group.  Torrie is on the bureaucracy working group.  
--- Torrie wrote temporary bylaws, five bullet points.  Those are the bylaws until we supersede them.  
--- Torrie asks for input as to whether we will pass the bylaws above tonight. All physically present agree.  No online agreement or disagreement.
--- things to do to become a space: incorporate, b corporations: norton imperial labs, we need to research what type of corporation we want to become
--- Omar sez: non-profit is my preference simply because we can encourage donations, grants, and provides tax incentives for large purchases.
--- Chris asks: Are B corporations eligible for 501c3 status?
--- Craig will help Torrie with researching incorporation pros/cons/etc
--- torrie talks about baking good structure into hackron. Torrie wants to start by forking synhak. We have done that on GitHub. Next step is to look at bylaws and add immediate changes such as consensus and conflict resolution. Drop the notion of treasurer and replace it with a working group. Are there legal requirements of treasurer, secretary, etc? 
--- sudoroom has functionaries: https://sudoroom.org/wiki/Articles_of_Association#Section_2.2_Sudo_Functionaries
--- functionaries has benefits: eliminates popularity contests and also reduces bureaucracy of removing someone who is not working Properly.
--- Torrie: ask sudoroom about the legality of not having someone formally in certain titles like treasurer
--- Omar asks about when functionaries change place, banks sometimes like to see a statement that says "this person is the treasurer, has authorization, etc". Can we have pre-formed letterheads that do this?
--- idea about using an outside accountant in place of internal treasurer
--- could phong be treasurer????????????
--- computer :(
--- craig sez: What if there is an issue of a simple majority splitting the space into two factions who want different people to be exchequer?
--- Chris suggests using a d20
--- torrie asks whether we should have forkability as a core concept and values
--- Craig asks: What if people want to fork? How could we explicitly tell them they're allowed?
--- Torrie sez: GPL? I think synhak's stuff is GPL'd.
--- Chris suggests making it all public domain, GPL = You can take this and fork it but you must include this license and other ball&chains vs PubDom: You can take this and fork it to whatever you want.
---  Craig mentions that we should protect the branding and Visual identity
--- Omar sez: It should be as open as possible. Not just free to use, but free to copy and fork and remix. But not impersonate.
--- Torrie sez: Quotes Norton Imperial Labs, "Come to NIL to work and to collaborate. Feel free to choose who you work with, but do not be surprised if others start similar projects. Forking and imitation are gestures of love: you own your work, not your ideas." https://github.com/nortonimperiallabs/nortonimperiallabs/blob/proposal/values/values.md
---- We consense on that as a value s/NIL/Hackron
--- Torrie sez: Freeloaders = Quotes NIL:
---- NIL welcomes all levels of community participation; the best way to contribute to the space is by participating in the community. The space is here for you: sitting and working is fine, but you're only really here when here you're here in spirit too. You contribute to NIL by contributing to NIL, not just by being here.
--- Craig asks: If you've got this bunch of people, can they rent storage? Can they have a large presence at the space without having a desire to participate?
--- Chris adds: Financial contribution is still contribution to the space. If you just wanted to apy $35/mo to store a toolbox in a warehouse
--- Craig adds: Now you've got folks who just want a box and now they've got voting rights
--- Omar sez: We shouldn't equate money to voice. Qualitative contributions preferred over Quantitative.
--- Craig sez: The only way to have that perk is to have money. If governance is to be tighter knit, they should be allowed to have a way to participate without throwing money.
---- Torrie reads off another NIL value: NIL is for the quintessential joy of creation, the passion project, the intellectual pursuit you just can't put down. Commercialization and scaling can come later, and elsewhere. We are not an incubator or a coworking space.
--- Chris adds: There isn't a metric where you can go in and say Hackron is doing 35% better on this metric, etc
--- Craig says: What if someone built a wall and it isn't up to code and now we're liable for something?
--- Omar sez: We shouldn't be able to get to that position in the first place. If they're building a non-code wall, we need to all step up and help them make it up to code to mitigate any issues. Fostering the culture, having the onboarding process, etc.
--- Torrie reads another value: NIL values inclusiveness and diversity. We strive to be a space where everyone feels safe and valued, no matter their background, identity, or level of experience. However, our doors are not open to everyone; participation and membership are privileges that may be refused or revoked.
--- Craig: What if the person building such a wall genuinely honestly thought they were helping out? Why should we kick them out?
--- Torrie adds: If someone is causing problems at the space, we should not punish them! We should first try to educate them on why their contributions are detremental to the space. If that does not work and they are refusing to add benefit to the space, then we should still have the right to revoke their ability to participate.
--- Omar: We should not punish people. Corrective over punishment. We should favor encouragement, foster people doing things the right way, gently push people in the "right" direction I.E. use the claw of a hammer to remove nails, not your teeth. Foster the culture of helping people come up rather than bringing them down. If someone just not having that, they don't want to be encouraged/fostered, they want to come in and do whatever they want and leave, well this is a community. So Bye.
+- One thing that can definitely benefit hackron: A much longer onboarding process. How long should that be? Maybe a probation period, or a minimum of "I've seen you around for X number of weeks" Something that prevents folks from coming in and saying "I just heard about you this week. I want to join."
+- Craig sez: That initial enthusiasm. How do you satisfy that urge to.
+- Torrie explains subscription based donations as primary income, and why people might want to be a member in the first place
+- Omar sez: You can still use the space if you're not a member. But a chance to direct things, that requires the onboarding, the understanding of the culture, understanding how to make things happen before you try to make things happen.
+- Omar suggests changing the term "freeloader" to "guest" or "visitor".
+- 
+- Craig will bring a table microphone for the next meeting
+- Torrie discusses threat models, such as malicious hacking, sexual harassment, hostile takeover, interpersonal conflicts, space becoming an ewaste dump, etc. 
+- Torrie wants to use noisebridge fractal working groups.  Hackron working group, with sub-groups below it.   We need smaller groups so things can be split up and delegated.  Philip is in charge of the space working group.  Xander is on the financial working group.  Torrie is on the bureaucracy working group.  
+- Torrie wrote temporary bylaws, five bullet points.  Those are the bylaws until we supersede them.  
+- Torrie asks for input as to whether we will pass the bylaws above tonight. All physically present agree.  No online agreement or disagreement.
+- things to do to become a space: incorporate, b corporations: norton imperial labs, we need to research what type of corporation we want to become
+- Omar sez: non-profit is my preference simply because we can encourage donations, grants, and provides tax incentives for large purchases.
+- Chris asks: Are B corporations eligible for 501c3 status?
+- Craig will help Torrie with researching incorporation pros/cons/etc
+- torrie talks about baking good structure into hackron. Torrie wants to start by forking synhak. We have done that on GitHub. Next step is to look at bylaws and add immediate changes such as consensus and conflict resolution. Drop the notion of treasurer and replace it with a working group. Are there legal requirements of treasurer, secretary, etc? 
+- sudoroom has functionaries: https://sudoroom.org/wiki/Articles_of_Association#Section_2.2_Sudo_Functionaries
+- functionaries has benefits: eliminates popularity contests and also reduces bureaucracy of removing someone who is not working Properly.
+- Torrie: ask sudoroom about the legality of not having someone formally in certain titles like treasurer
+- Omar asks about when functionaries change place, banks sometimes like to see a statement that says "this person is the treasurer, has authorization, etc". Can we have pre-formed letterheads that do this?
+- idea about using an outside accountant in place of internal treasurer
+- could phong be treasurer????????????
+- computer :(
+- craig sez: What if there is an issue of a simple majority splitting the space into two factions who want different people to be exchequer?
+- Chris suggests using a d20
+- torrie asks whether we should have forkability as a core concept and values
+- Craig asks: What if people want to fork? How could we explicitly tell them they're allowed?
+- Torrie sez: GPL? I think synhak's stuff is GPL'd.
+- Chris suggests making it all public domain, GPL = You can take this and fork it but you must include this license and other ball&chains vs PubDom: You can take this and fork it to whatever you want.
+-  Craig mentions that we should protect the branding and Visual identity
+- Omar sez: It should be as open as possible. Not just free to use, but free to copy and fork and remix. But not impersonate.
+- Torrie sez: Quotes Norton Imperial Labs, "Come to NIL to work and to collaborate. Feel free to choose who you work with, but do not be surprised if others start similar projects. Forking and imitation are gestures of love: you own your work, not your ideas." https://github.com/nortonimperiallabs/nortonimperiallabs/blob/proposal/values/values.md
+- We consense on that as a value s/NIL/Hackron
+- Torrie sez: Freeloaders = Quotes NIL:
+- NIL welcomes all levels of community participation; the best way to contribute to the space is by participating in the community. The space is here for you: sitting and working is fine, but you're only really here when here you're here in spirit too. You contribute to NIL by contributing to NIL, not just by being here.
+- Craig asks: If you've got this bunch of people, can they rent storage? Can they have a large presence at the space without having a desire to participate?
+- Chris adds: Financial contribution is still contribution to the space. If you just wanted to apy $35/mo to store a toolbox in a warehouse
+- Craig adds: Now you've got folks who just want a box and now they've got voting rights
+- Omar sez: We shouldn't equate money to voice. Qualitative contributions preferred over Quantitative.
+- Craig sez: The only way to have that perk is to have money. If governance is to be tighter knit, they should be allowed to have a way to participate without throwing money.
+- Torrie reads off another NIL value: NIL is for the quintessential joy of creation, the passion project, the intellectual pursuit you just can't put down. Commercialization and scaling can come later, and elsewhere. We are not an incubator or a coworking space.
+- Chris adds: There isn't a metric where you can go in and say Hackron is doing 35% better on this metric, etc
+- Craig says: What if someone built a wall and it isn't up to code and now we're liable for something?
+- Omar sez: We shouldn't be able to get to that position in the first place. If they're building a non-code wall, we need to all step up and help them make it up to code to mitigate any issues. Fostering the culture, having the onboarding process, etc.
+- Torrie reads another value: NIL values inclusiveness and diversity. We strive to be a space where everyone feels safe and valued, no matter their background, identity, or level of experience. However, our doors are not open to everyone; participation and membership are privileges that may be refused or revoked.
+- Craig: What if the person building such a wall genuinely honestly thought they were helping out? Why should we kick them out?
+- Torrie adds: If someone is causing problems at the space, we should not punish them! We should first try to educate them on why their contributions are detremental to the space. If that does not work and they are refusing to add benefit to the space, then we should still have the right to revoke their ability to participate.
+- Omar: We should not punish people. Corrective over punishment. We should favor encouragement, foster people doing things the right way, gently push people in the "right" direction I.E. use the claw of a hammer to remove nails, not your teeth. Foster the culture of helping people come up rather than bringing them down. If someone just not having that, they don't want to be encouraged/fostered, they want to come in and do whatever they want and leave, well this is a community. So Bye.
 
 Action Items
 ------------
 
-Torrie: Will start a draft of our values
-Torrie and Craig will investigate incorporation options, etc, what officer positions are required by law
-Chris: Will find summaries of different licenses so we can figure out how we want to encourage forkability. Possibly with examples of how someone is doing it in public domain.
-Craig: Will bring a microphone next week
-Torrie: will create merge request and a workflow for +1'ing minutes as we go along
-Torrie: Will create a workflow document for meeting setup
+- Torrie: Will start a draft of our values
+- Torrie and Craig will investigate incorporation options, etc, what officer positions are required by law
+- Chris: Will find summaries of different licenses so we can figure out how we want to encourage forkability. Possibly with examples of how someone is doing it in public domain.
+- Craig: Will bring a microphone next week
+- Torrie: will create merge request and a workflow for +1'ing minutes as we go along
+- Torrie: Will create a workflow document for meeting setup
