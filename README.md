@@ -14,8 +14,12 @@ Communication
 * **IRC/Group Chat**: [Ask us about Slack!](http://discuss.hackron.org/t/keeping-in-touch/11)
 * **Donations**: [@hackron\_ on Gittip](http://gittip.com/hackron_)
 
-Meetings
---------
+
+How we work
+-----------
+
+Once a week, we meet. There we discuss our efforts towards a goal of building a physical hackerspace for those who are looking to plainly mainfest their ideas.
+
 
 We meet every Thursday at 7pm in cyberspace and meatspace. Our regular location
 lately has been OSC Tech Lab, on the second floor of 12 E. Exchange St, Akron,
@@ -30,3 +34,11 @@ This repository contains, or soon will contain the wiki for Hackron. This includ
 * Meeting minutes and agendas
 * Bylaws
 * Consensus process history
+
+Our Projects
+----------------------------
+
+There are two major projects at the moment:
+
+* **Hackron itself**: This repository.
+* **Hackron.org**: Our website. Hosts the frontpage, discourse, wiki (soon) and various other ethereal infrastruture. See our [hackron/infrastructure](https://github.com/hackron/infrastructure) repository for details.
