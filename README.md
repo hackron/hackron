@@ -9,7 +9,7 @@ value tools over pre-emptive rules, and spurn the key and the lock.
 Communication
 -------------
 
-* **Mailing list**: Actuall a [Discourse forum](http://discuss.hackron.org)
+* **Mailing list**: Actually a [Discourse forum](http://discuss.hackron.org)
 * **Twitter**: [@hackron_](https://twitter.com/hackron_)
 * **IRC/Group Chat**: [Ask us about Slack!](http://discuss.hackron.org/t/keeping-in-touch/11)
 * **Donations**: [@hackron\_ on Gittip](http://gittip.com/hackron_)
